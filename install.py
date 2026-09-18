@@ -1,14 +1,12 @@
 #!/usr/bin/python
 
 """
-Author             : Ms.ambari
-contact            : ambari.developer@gmail.com
-Github             : https://github.com/Ranginang67
-my youtube channel : Ms.ambari
+KRISHAN-X
+A customized distribution based on DarkFly-Tool.
 
-subcribe my youtube Channel to learn ethical Hacking ^_^
+Original author: Ms.ambari
+Original project: https://github.com/Ranginang67/DarkFly-Tool
 """
-
 import sys
 import os.path
 import subprocess
